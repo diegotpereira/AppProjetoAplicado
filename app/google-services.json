@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "780671870833",
+    "firebase_url": "https://consolefirebase-b9d91.firebaseio.com",
+    "project_id": "consolefirebase-b9d91",
+    "storage_bucket": "consolefirebase-b9d91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780671870833:android:da4d212d81100c8c",
+        "android_client_info": {
+          "package_name": "br.edu.qi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780671870833-roe7m01v47atnb46h8bqihoglv2dlub4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.qi.app",
+            "certificate_hash": "29845c947d3e392a00945d2c6cbed680668eaad3"
+          }
+        },
+        {
+          "client_id": "780671870833-k4oc2rc2mkscqp07fh8bqc10rd9kn58s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.qi.app",
+            "certificate_hash": "8cfd2b4b16c121df7f86380aa98992c5d440d18e"
+          }
+        },
+        {
+          "client_id": "780671870833-m9hffeflqua3es197n7rmv7frle0k0jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUFrMuA9BhK0fPIwMfBBQSd_kXCHFy44E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780671870833-m9hffeflqua3es197n7rmv7frle0k0jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780671870833:android:6c37647080782f52",
+        "android_client_info": {
+          "package_name": "br.edu.qi.myappteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780671870833-vid8qfbvg7o1t7559soe0vh29ui4pi40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.qi.myappteste",
+            "certificate_hash": "29845c947d3e392a00945d2c6cbed680668eaad3"
+          }
+        },
+        {
+          "client_id": "780671870833-m9hffeflqua3es197n7rmv7frle0k0jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUFrMuA9BhK0fPIwMfBBQSd_kXCHFy44E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780671870833-m9hffeflqua3es197n7rmv7frle0k0jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
